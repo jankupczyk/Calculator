@@ -13,8 +13,20 @@ pip install calculator
 ## Usage
 
 * ```Calculator Menu```
+
 ![Calculator Menu](img/calc_menu.PNG)
 
+* ```Calculator```
+
+![Calculator](img/calc.PNG)
+
+* ```Date Calculator```
+
+![Date Calculator](img/date.PNG)
+
+* ```Charts```
+
+![Charts writing](img/charts.PNG)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
