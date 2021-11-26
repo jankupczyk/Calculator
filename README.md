@@ -16,7 +16,7 @@ pip install calculator
 
 ![Calculator Menu](img/calc_menu.PNG)
 
-* ```Calculator```
+* ```Standard Calculator```
 
 ![Calculator](img/calc.PNG)
 
@@ -24,9 +24,9 @@ pip install calculator
 
 ![Date Calculator](img/date.PNG)
 
-* ```Charts```
+* ```Graph```
 
-![Charts writing](img/charts.PNG)
+![Graph maker](img/charts.PNG)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
