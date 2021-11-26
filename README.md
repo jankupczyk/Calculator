@@ -12,7 +12,9 @@ pip install calculator
 
 ## Usage
 
+* ```playerradio PinnedDown helpppp```
 
+![Calculator](img/s.png)
 
 
 ## Contributing
