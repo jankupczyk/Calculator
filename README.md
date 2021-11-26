@@ -13,7 +13,7 @@ pip install calculator
 ## Usage
 
 * ```Calculator Menu```
-![Calculator Menu](img/calc_menu.png)
+![Calculator Menu](img/calc_menu.PNG)
 
 
 ## Contributing
