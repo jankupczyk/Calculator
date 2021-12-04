@@ -66,7 +66,7 @@ class ToggleMenu(tk.Canvas):
         self.create_window(141, 368, window=self.button)
         self.button = tk.Button(self, text='', font=TOGGLER_SMALL_BTN_JK, bg=WB_BG, command=lambda: self.button_callback(webbrowser.open('https://jankupczyk.github.io/KUPCZYK/')))
         self.create_window(171, 368, window=self.button)
-        self.create_text(125, 447, text='Calculator 30.1011.3 ', anchor=tk.CENTER, font=TOGGLER_SMALL_BTN_JK)
+        self.create_text(125, 447, text='Calculator 04.1012.22 ', anchor=tk.CENTER, font=TOGGLER_SMALL_BTN_JK)
         self.create_text(125, 462, text='©2021 Jan Kupczyk. All rights reserved.', anchor=tk.CENTER, font=TOGGLER_SMALL_BTN_JK)
         loadimg1 = Image.open("H:/VSC/PROJEKTY/Calculator/src/Calculator/Assets/iconsm/calc.png")
         renderimg1 = ImageTk.PhotoImage(loadimg1)
@@ -323,3 +323,8 @@ if __name__ == "__main__":
     calculatormain = calculator()
     calculatormain.run()
     calculatormain.ui_start()
+
+
+    # AUTHOR: Jan Kupczyk
+    # A simple calculator written in python allows you to make simple calculations, write charts, calculate the dates, and exchange currency.
+    
