@@ -5,7 +5,7 @@ A simple calculator written in python allows you to make simple calculations, wr
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculator.
-
+   
 ```bash
                               
 ```
